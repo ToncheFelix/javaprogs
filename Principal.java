@@ -1,4 +1,12 @@
-
+/**
+* 
+* Calculator v1.0
+* Zacatecas, MX
+* 
+* @author  Felix Tonche Valadez
+* @version 1.0
+* @since   2017-10-21 
+*/
 import javax.swing.JFrame;
 
 class Principal 
